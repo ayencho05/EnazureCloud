@@ -1,0 +1,28 @@
+name: "Questions & Answers"
+
+about: |
+  Welcome to the Questions & Answers section! Feel free to ask any questions related to the project here. Our community members and maintainers will do their best to provide helpful answers.
+
+body:
+  - type: markdown
+    value: "## Asking a Question"
+  - type: markdown
+    value: |
+      To ask a question, please create a new discussion thread with the following information:
+      - **Question:** Briefly summarize your question.
+      - **Details:** Provide additional context or details to help others understand your question better.
+
+  - type: markdown
+    value: "## Providing Answers"
+  - type: markdown
+    value: |
+      If you know the answer to a question, please feel free to contribute by replying to the discussion thread with your answer. Make sure to be helpful and respectful to other community members.
+
+  - type: markdown
+    value: "## Guidelines"
+  - type: markdown
+    value: |
+      - Be respectful and considerate towards others.
+      - Avoid spamming or posting irrelevant content.
+      - Use appropriate language and tone.
+      - Provide constructive feedback and assistance.
